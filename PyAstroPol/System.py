@@ -3,6 +3,7 @@
 |  File name : System.py
 |  Package : PyAstroPol
 |  Description : Optical system class
+SLASH SLASH
 """
 
 from .Source import *
