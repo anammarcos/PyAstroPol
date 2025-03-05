@@ -523,3 +523,4 @@ class Surface():
         for i in range(len(P1)):
             Ax.plot([P1[i,0], P2[i,0]], [P1[i,1], P2[i,1]], [P1[i,2], P2[i,2]], 'w', **kwargs)
         return
+    
